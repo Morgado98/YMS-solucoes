@@ -58,34 +58,34 @@ function App() {
 
   const services = [
     {
-      icon: Code,
-      title: "Desenvolvimento de Sistemas",
-      description: "Aplicações robustas e escaláveis que automatizam processos e aumentam a produtividade."
+      icon: Globe,
+      title: "Sites para Empresas",
+      description: "Desenvolvemos sites corporativos modernos e responsivos que fortalecem a presença digital da sua empresa e atraem novos clientes."
     },
     {
-      icon: Globe,
-      title: "Sites Modernos",
-      description: "Plataformas web responsivas e otimizadas que conectam sua marca ao público digital."
+      icon: Code,
+      title: "Sistemas Customizados",
+      description: "Criamos sistemas sob medida para automatizar processos específicos do seu negócio, aumentando eficiência e produtividade."
     },
     {
       icon: Zap,
-      title: "Landing Pages",
-      description: "Páginas estratégicas de alta conversão focadas em capturar leads e gerar vendas."
+      title: "SaaS Customizável",
+      description: "Desenvolvemos plataformas SaaS personalizáveis que se adaptam às necessidades únicas da sua empresa e escalam com seu crescimento."
     },
     {
       icon: BarChart3,
       title: "Business Intelligence",
-      description: "Dashboards inteligentes que transformam dados em insights estratégicos para decisões assertivas."
+      description: "Dashboards inteligentes e relatórios personalizados que transformam seus dados em insights estratégicos para decisões assertivas."
     },
     {
       icon: Lightbulb,
-      title: "Soluções Personalizadas",
-      description: "Criamos ferramentas sob medida que atendem às necessidades específicas do seu segmento."
+      title: "Consultoria Digital",
+      description: "Orientamos sua empresa na jornada de transformação digital, identificando oportunidades e implementando as melhores soluções."
     },
     {
       icon: Shield,
-      title: "Suporte Tecnológico",
-      description: "Acompanhamento contínuo e manutenção preventiva para garantir performance máxima."
+      title: "Suporte Especializado",
+      description: "Oferecemos suporte técnico contínuo e manutenção preventiva para garantir que suas soluções funcionem sempre com máxima performance."
     }
   ]
 
@@ -260,12 +260,12 @@ function App() {
               
               <div className="grid grid-cols-2 gap-6 mb-8">
                 <div className="text-center">
-                  <div className="text-3xl font-bold text-red-600 mb-2">50+</div>
+                  <div className="text-3xl font-bold text-red-600 mb-2">4</div>
                   <div className="text-gray-600">Projetos Entregues</div>
                 </div>
                 <div className="text-center">
-                  <div className="text-3xl font-bold text-red-600 mb-2">5+</div>
-                  <div className="text-gray-600">Anos de Experiência</div>
+                  <div className="text-3xl font-bold text-red-600 mb-2">Novo</div>
+                  <div className="text-gray-600">Empresa Inovadora</div>
                 </div>
               </div>
 
